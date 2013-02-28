@@ -1,0 +1,9 @@
+%META:TOPICINFO{author="ProjectContributor" date="1297286796" format="1.1" version="1"}%
+%META:TOPICPARENT{name="OembedPlugin"}%
+#VarOEMBED
+---+++ OEMBED -- example variable
+   * The =%<nop>OEMBED{}%= variable is handled by the OembedPlugin
+   * Syntax: =%<nop>OEMBED{"http://www.example.com/video/123"}%=
+   * Parameter =url=" - same as default parameter
+   * Examples: =%<nop>OEMBED{"http://www.example.com/video/123"}%= =%<nop>OEMBED{url="http://www.example.com/video/123"}%=
+   * Related: OembedPlugin

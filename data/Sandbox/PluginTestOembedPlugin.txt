@@ -1,0 +1,9 @@
+%META:TOPICINFO{author="ProjectContributor" date="1297286796" format="1.1" version="1"}%
+%META:TOPICPARENT{name="OembedPlugin"}%
+---+!! Testing !OembedPlugin 
+
+%OEMBED%
+
+%OEMBED{url="http://www.example.com"}%
+
+__Related:__ %SYSTEMWEB%.OembedPlugin

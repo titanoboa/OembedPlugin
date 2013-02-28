@@ -1,0 +1,2 @@
+Web::oEmbed,>=0.4,cpan,Required.
+Test::MockModule,>=0.05,cpan, Required for running the unit tests.

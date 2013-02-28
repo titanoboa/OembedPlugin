@@ -1,0 +1,6 @@
+!noci
+data/System/OembedPlugin.txt 0644 Documentation page
+data/System/VarOEMBED.txt 0644 Tag documentation
+data/Sandbox/PluginTestOembedPlugin.txt 0644 Examples
+lib/Foswiki/Plugins/OembedPlugin.pm 0444 Perl module
+lib/Foswiki/Plugins/OembedPlugin/Config.spec 0444 Configuration
